@@ -37,9 +37,12 @@
 ---
 
 ## 👥 Project Members
-| **Feby Angela Felices** [@Fibii44](https://github.com/github-username)
-| **James Rio Abaqiuta**  [@JamesRioA](https://github.com/JamesRioA)
-| **Keith Einlou Pogoy**  [@nloukei](https://github.com/nloukei)
-| **Vivian Bangcoyo**     [@Potshisami](https://github.com/Potshisami)
+
+| Name | GitHub Profile |
+| :--- | :--- |
+| **Feby Angela Felices** | [@Fibii44](https://github.com/Fibii44) |
+| **James Rio Abaqiuta** | [@JamesRioA](https://github.com/JamesRioA) |
+| **Keith Einlou Pogoy** | [@nloukei](https://github.com/nloukei) |
+| **Vivian Bangcoyo** | [@Potshisami](https://github.com/Potshisami) |
 
 ---
