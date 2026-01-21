@@ -34,6 +34,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Database Isolation](https://img.shields.io/badge/Storage-Multi--Database_Pattern-orange?style=for-the-badge)
 
+---
 
+## 👥 Project Members
+| **Feby Angela Felices** [@Fibii44](https://github.com/github-username)
+| **James Rio Abaqiuta**  [@JamesRioA](https://github.com/JamesRioA)
+| **Keith Einlou Pogoy**  [@nloukei](https://github.com/nloukei)
+| **Vivian Bangcoyo**     [@Potshisami](https://github.com/Potshisami)
 
-These settings are stored in the `tenant_settings` table in each tenant's database. 
+---
